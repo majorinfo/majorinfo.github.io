@@ -2,6 +2,7 @@
 
     background-color: black;
     width: 500px;
+    height: 300px;
     display: flex;
     
 }
@@ -11,6 +12,6 @@
     background-color: rgb(154, 65, 255);
     justify-content: center;
     width: 50px;
-
+    height: 100px;
 
 }

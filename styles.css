@@ -1,0 +1,13 @@
+.container {
+
+    display: flex;
+    
+}
+
+.container-item {
+
+    justify-content: center;
+    width: 400px;
+
+
+}

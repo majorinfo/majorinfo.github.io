@@ -1,14 +1,16 @@
 .container {
 
+    background-color: black;
+    width: 500px;
     display: flex;
     
 }
 
 .container-item {
 
-    background-color: aquamarine;
+    background-color: rgb(154, 65, 255);
     justify-content: center;
-    width: 400px;
+    width: 50px;
 
 
 }
